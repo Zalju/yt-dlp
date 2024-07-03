@@ -1,7 +1,9 @@
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
-Added by Zalju : https://www.youtube.com/watch?v=5aYwU4nj5QA (How to Install and Use yt-dlp [2024] [Quick and Easy!] [4 Minute Tutorial] [Windows 11]
-)
+
+   <!-- Added by Zalju -->
+Added by Zalju : https://www.youtube.com/watch?v=5aYwU4nj5QA
+   (How to Install and Use yt-dlp [2024] [Quick and Easy!] [4 Minute Tutorial] [Windows 11])
 
 [![YT-DLP](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](#readme)
 
