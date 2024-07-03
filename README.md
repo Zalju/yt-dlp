@@ -1,8 +1,12 @@
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
-
-## Added by Zalju : https://www.youtube.com/watch?v=5aYwU4nj5QA (How to Install and Use yt-dlp [2024] [Quick and Easy!] [4 Minute Tutorial] [Windows 11])
-
+## Added by Zalju
+## https://www.perplexity.ai/search/can-yt-dlp-be-used-to-download-KykZHJ7vSpCUHB.Nqe_1TA
+## https://github.com/rand-net/khan-dl
+## https://github.com/Zalju/khan-dl
+## https://www.youtube.com/watch?v=5aYwU4nj5QA (How to Install and Use yt-dlp [2024] [Quick and Easy!] [4 Minute Tutorial] [Windows 11])
+## Added by Zalju
+   
 [![YT-DLP](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](#readme)
 
 [![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
